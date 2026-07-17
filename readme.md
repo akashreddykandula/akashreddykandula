@@ -148,7 +148,7 @@ A complete fashion shopping experience featuring secure authentication, product 
 
 **🔗 Links**
 
-- 🌐 Live Demo:luxe-fashion-store-six.vercel.app
+- 🌐 Live Demo: https://luxe-fashion-store-six.vercel.app/
   
 
 ---
@@ -173,7 +173,7 @@ Helps users manage expenses, monitor budgets, and gain financial insights throug
 
 **🔗 Links**
 
-- 🌐 Live Demo:spend-wise-gamma-two.vercel.app
+- 🌐 Live Demo: https://spend-wise-gamma-two.vercel.app/
 
 
 ##  Certifications
