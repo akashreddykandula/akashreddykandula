@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Full Stack MERN Developer** who enjoys turning ideas into polished, production-grade digital products.
 
@@ -42,7 +42,7 @@ I enjoy solving real-world problems through clean architecture, intuitive UI/UX,
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <table>
 <tr>
@@ -72,13 +72,13 @@ I enjoy solving real-world problems through clean architecture, intuitive UI/UX,
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-# ⭐ Featured Projects
+#  Featured Projects
 
 > A selection of projects that demonstrate my experience building scalable, production-ready full-stack applications.
 
 ---
 
-## 🎓 Campus Issue Management Platform
+##  Campus Issue Management Platform
 
 **AI-powered platform for reporting, prioritizing, and resolving campus issues.**
 
@@ -86,12 +86,12 @@ Students can report issues with images and location details while administrators
 
 **Highlights**
 
-- 🔐 JWT Authentication & Role-Based Access Control
-- 🤖 AI Priority Scoring & Duplicate Detection
-- 📸 Image Uploads & Location Tagging
-- 📊 Admin Dashboard & Analytics
-- 🔔 Real-Time Notifications
-- 🎨 Modern Glassmorphism UI
+-  JWT Authentication & Role-Based Access Control
+-  AI Priority Scoring & Duplicate Detection
+-  Image Uploads & Location Tagging
+-  Admin Dashboard & Analytics
+-  Real-Time Notifications
+-  Modern Glassmorphism UI
 
 **Tech Stack**
 
@@ -104,7 +104,7 @@ Students can report issues with images and location details while administrators
 
 ---
 
-## 🚆 GroupRail
+##  GroupRail
 
 **AI-powered collaborative train journey planner for groups.**
 
@@ -112,12 +112,12 @@ A real-time travel planning platform where users can create groups, invite frien
 
 **Highlights**
 
-- 🔐 JWT Authentication
-- 👥 Invite Codes
-- 💬 Real-Time Chat (Socket.IO)
-- 🤖 AI Boarding Recommendations
-- 🪑 Seat Preference Management
-- ⚡ Zustand State Management
+-  JWT Authentication
+-  Invite Codes
+-  Real-Time Chat (Socket.IO)
+-  AI Boarding Recommendations
+-  Seat Preference Management
+-  Zustand State Management
 
 **Tech Stack**
 
@@ -127,7 +127,7 @@ A real-time travel planning platform where users can create groups, invite frien
 
 ---
 
-## 👗 LUXE Fashion Store
+##  LUXE Fashion Store
 
 **Production-ready MERN e-commerce platform.**
 
@@ -135,12 +135,12 @@ A complete fashion shopping experience featuring secure authentication, product 
 
 **Highlights**
 
-- 🛒 Shopping Cart & Wishlist
-- 💳 Razorpay Payment Gateway
-- 🔐 JWT Authentication & RBAC
-- ⭐ Product Reviews
-- 📦 Order Tracking
-- ☁️ Cloudinary Image Uploads
+-  Shopping Cart & Wishlist
+-  Razorpay Payment Gateway
+-  JWT Authentication & RBAC
+-  Product Reviews
+-  Order Tracking
+-  Cloudinary Image Uploads
 
 **Tech Stack**
 
@@ -148,12 +148,12 @@ A complete fashion shopping experience featuring secure authentication, product 
 
 **🔗 Links**
 
-- 🌐 Live Demo:  luxe-fashion-store-six.vercel.app
+- 🌐 Live Demo:luxe-fashion-store-six.vercel.app
   
 
 ---
 
-## 💰 SpendWise
+##  SpendWise
 
 **Personal finance management application.**
 
@@ -161,11 +161,11 @@ Helps users manage expenses, monitor budgets, and gain financial insights throug
 
 **Highlights**
 
-- 💵 Expense Tracking
-- 📊 Budget Management
-- 📈 Interactive Charts
-- 🔐 Secure Authentication
-- 📱 Responsive Dashboard
+-  Expense Tracking
+-  Budget Management
+-  Interactive Charts
+-  Secure Authentication
+-  Responsive Dashboard
 
 **Tech Stack**
 
@@ -173,10 +173,10 @@ Helps users manage expenses, monitor budgets, and gain financial insights throug
 
 **🔗 Links**
 
-- 🌐 Live Demo: spend-wise-gamma-two.vercel.app
+- 🌐 Live Demo:spend-wise-gamma-two.vercel.app
 
 
-## 🏆 Certifications
+##  Certifications
 
 | Certification | Provider |
 |---|---|
@@ -193,7 +193,7 @@ Helps users manage expenses, monitor budgets, and gain financial insights throug
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```text
 ✔ Production-grade MERN Applications
